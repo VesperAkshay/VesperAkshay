@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on building innovative projects using cutting-edge technologies.<br>👯 I’m looking to collaborate on open-source projects and exciting tech initiatives.<br>🤝 I’m looking for help with enhancing my coding skills and exploring new opportunities in the tech industry.<br>🌱 I’m currently learning advanced programming languages and frameworks to expand my expertise.<br>💬 Ask me about my journey in tech, project ideas, or anything related to software development.<br>⚡ Fun fact: I enjoy experimenting with AI algorithms in my free time!
 
+## HacktoberFest:
+[![An image of @vesperakshay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vesperakshay)](https://holopin.io/@vesperakshay)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-patel-3b0b97284/) 
