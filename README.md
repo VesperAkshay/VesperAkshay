@@ -1,3 +1,13 @@
+<!-- 🚀 Typing Animation + Centered Robot GIF -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=45&lines=Hey!+I'm+Akshay+%F0%9F%91%8B;Software+Developer+%7C+AI+Explorer;Open-Source+Contributor+%7C+Tech+Innovator;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="120" alt="Animated Robot" />
+</p>
+
+
 # 💫 About Me:
 
 👋 Hey there! I'm a Software Developer and AI enthusiast currently pursuing my B.Tech at **Pranveer Singh Institute of Technology (PSIT), Kanpur**.
