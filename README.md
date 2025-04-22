@@ -34,7 +34,7 @@ Feel free to reach out if you want to discuss projects, exchange ideas, or just 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-patel-3b0b97284/) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -49,14 +49,18 @@ Feel free to reach out if you want to discuss projects, exchange ideas, or just 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-## 🗄️ Backend & Databases
+## 🗄️ Backend Development & Databases
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🧠 AI / ML Tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000.svg?style=for-the-badge&logo=robot&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi_Agent_Systems-FFD700.svg?style=for-the-badge&logo=robots&logoColor=black)
+![LLM](https://img.shields.io/badge/LLM-%2330A5FF.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🎨 Design & Creative
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -67,9 +71,12 @@ Feel free to reach out if you want to discuss projects, exchange ideas, or just 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCB2E.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-%23000000.svg?style=for-the-badge&logo=terminal&logoColor=white)
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Hey!+I'm+Akshay+%F0%9F%91%8B;Software+Developer+%7C+Open-Source+Contributor;AI+%26+Generative+Tech+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
 
 ---
 
