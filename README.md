@@ -1,105 +1,181 @@
-<!-- 🚀 Typing Animation + Centered Robot GIF -->
+<!--
+  ───────────────────────────────────────────────────────────────
+  VesperAkshay · profile README
+  All artwork in /assets is hand-authored SVG. Edit the colours in
+  one place (gen.py) and regenerate if you ever want a new palette.
+  ───────────────────────────────────────────────────────────────
+-->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=45&lines=Hey!+I'm+Akshay+%F0%9F%91%8B;Software+Developer+%7C+AI+Explorer;Open-Source+Contributor+%7C+Tech+Innovator;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="assets/hero.svg" width="100%" alt="Akshay Patel — Rust systems engineer, AI agent architect, developer-tools builder" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="120" alt="Animated Robot" />
+  <a href="https://www.linkedin.com/in/akshay-patel-3b0b97284/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>
+  <a href="https://dropwire.tyes.dev"><img src="assets/btn-dropwire.svg" height="40" alt="DropWire docs" /></a>
+  <a href="https://dev.to/vesperakshay"><img src="assets/btn-devto.svg" height="40" alt="dev.to" /></a>
+  <a href="https://holopin.io/@vesperakshay"><img src="assets/btn-holopin.svg" height="40" alt="Holopin" /></a>
+  <a href="https://github.com/VesperAkshay?tab=repositories"><img src="assets/btn-repos.svg" height="40" alt="All repositories" /></a>
 </p>
 
+<img src="assets/sec-about.svg" width="100%" alt="01 — whoami" />
 
-# 💫 About Me:
+<p align="center">
+  <img src="assets/about.svg" width="100%" alt="whoami --verbose" />
+</p>
 
-👋 Hey there! I'm a Software Developer and AI enthusiast currently pursuing my B.Tech at **Pranveer Singh Institute of Technology (PSIT), Kanpur**.
+I build **low-level tools that people actually install.** Most of my week goes into
+[DropWire](https://github.com/VesperAkshay/dropwire) — a peer-to-peer encrypted file-transfer
+engine in Rust that skips the cloud entirely, using SPAKE2 for password-authenticated key exchange
+and ChaCha20Poly1305 for the stream itself. The rest goes into **agent systems**: MCP clients,
+multi-agent pipelines, and the plumbing that makes LLMs useful instead of impressive.
 
-🚀 Passionate about building innovative tech solutions, I specialize in **AI Agent Systems**, **Generative AI**, and full-stack development.  
-💡 I'm an active **open-source contributor**, and a proud participant of **GirlScript Summer of Code (GSSoC) 2023 & 2024** and **Hacktoberfest 2024**.  
-🏆 Avid **competitive programmer** constantly pushing boundaries and solving real-world problems.
+Before that I spent two summers in open source — **GSSoC '23 & '24** and **Hacktoberfest '24** —
+which is also where my most-forked project came from: a QR generator that's now been forked
+**97 times** by people building on top of it.
 
-## 🎯 What I’m Up To:
-- 🔭 Currently working on advanced projects involving **AI, automation, and next-gen software systems**.  
-- 👯 Always open to **collaborations** on impactful open-source projects and startup ideas.  
-- 🌱 Diving deeper into **machine learning, system design, and modern web frameworks**.  
-- 🤝 Looking to connect with mentors, contributors, and like-minded tech enthusiasts.
+> **Currently:** shipping DropWire v0.1.x · exploring MCP tooling · deepening Rust + systems design
+> **Open to:** internships, open-source collaboration, and anything with hard constraints
 
-## 💬 Let's Talk:
-Feel free to reach out if you want to discuss projects, exchange ideas, or just talk tech!  
-⚡ **Fun fact:** I love tinkering with AI algorithms in my free time — from generative art to autonomous bots!
+<img src="assets/divider.svg" width="100%" alt="" />
 
+<img src="assets/sec-stack.svg" width="100%" alt="02 — toolbox" />
 
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Tech stack" />
+</p>
 
-## HacktoberFest:
-[![An image of @vesperakshay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vesperakshay)](https://holopin.io/@vesperakshay)
+<img src="assets/sec-work.svg" width="100%" alt="03 — selected work" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-patel-3b0b97284/) 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-# 💻 Tech Stack
+### ⚡ [DropWire](https://github.com/VesperAkshay/dropwire)
+Zero-cloud, peer-to-peer **encrypted file transfer engine** in Rust. SPAKE2 PAKE handshake,
+ChaCha20Poly1305 stream encryption, path-traversal hardening, and a TUI + headless CLI shipped
+through Homebrew, Scoop and Cargo.
 
-## 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+`Rust` · `Cryptography` · `P2P` · `TUI`
+[**→ docs**](https://dropwire.tyes.dev) · [**→ write-up**](https://dev.to/vesperakshay/why-i-built-dropwire-no-more-cloud-no-more-waiting-ipk)
 
-## 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+</td>
+<td width="50%" valign="top">
 
-## 🗄️ Backend Development & Databases
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🔳 [qr-code-generator](https://github.com/VesperAkshay/qr-code-generator)
+Customisable QR builder with Firebase auth and stored history. My most-adopted project —
+**39 stars, 97 forks**, and a common starting point for other people's builds.
 
-## 🧠 AI / ML Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000.svg?style=for-the-badge&logo=robot&logoColor=white)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi_Agent_Systems-FFD700.svg?style=for-the-badge&logo=robots&logoColor=black)
-![LLM](https://img.shields.io/badge/LLM-%2330A5FF.svg?style=for-the-badge&logo=openai&logoColor=white)
+`React` · `Firebase` · `JavaScript`
+**⭐ 39 · 🍴 97**
 
-## 🎨 Design & Creative
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCB2E.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-%23000000.svg?style=for-the-badge&logo=terminal&logoColor=white)
+### 📦 [polypm](https://github.com/VesperAkshay/polypm)
+A **polyglot package manager** that handles JavaScript and Python dependencies from a single
+manifest — one lockfile, one command, two ecosystems.
 
+`Rust` · `Package Management` · `CLI`
 
+</td>
+<td width="50%" valign="top">
 
----
+### 🛰️ [reqsmith](https://github.com/VesperAkshay/reqsmith)
+Command-line **API tester for REST and GraphQL** with response caching, reusable templates and
+Gemini-powered request explanation.
 
-## 🏆 GitHub Achievements & Stats
+`Python` · `CLI` · `Gemini API`
 
-### 🏅 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VesperAkshay&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 GitHub Stats
-![VesperAkshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VesperAkshay&show_icons=true&theme=discord_old_blurple&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VesperAkshay&layout=compact&theme=discord_old_blurple&hide_border=true)
+### 🐝 [MCP-Hive](https://github.com/VesperAkshay/MCP-Hive)
+A **unified MCP client** — one interface over many Model Context Protocol servers, with notes
+documenting the architecture as it's built.
 
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VesperAkshay&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+`Python` · `MCP` · `Agents`
 
-### 📈 Contribution Graph
-![VesperAkshay's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=VesperAkshay&theme=react-dark&hide_border=true)
+</td>
+<td width="50%" valign="top">
 
----
+### 🧩 [lazynode](https://github.com/VesperAkshay/lazynode)
+Terminal UI for **Node.js project management** — scripts, dependencies and package state without
+leaving the keyboard. Distributed via Homebrew and Scoop.
 
-### 👀 Visitor Counter
-[![](https://visitcount.itsvg.in/api?id=VesperAkshay&icon=6&color=12)](https://visitcount.itsvg.in)
+`Go` · `TUI` · `DevTools`
 
+</td>
+</tr>
+</table>
 
+<details>
+<summary><b>&nbsp;More things I've built &nbsp;›</b></summary>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| [Linkedin-Post-Multi-agent](https://github.com/VesperAkshay/Linkedin-Post-Multi-agent) | Multi-agent pipeline that researches, drafts and refines LinkedIn posts | `Python` `Agents` |
+| [Visual-Product-Matcher](https://github.com/VesperAkshay/Visual-Product-Matcher) | Image-similarity search over a product catalogue | `Python` `CV` |
+| [File_Compression](https://github.com/VesperAkshay/File_Compression) | Compression utility built from the algorithms up | `Python` |
+| [Tax-Planner-Finance](https://github.com/VesperAkshay/Tax-Planner-Finance) | Tax planning and projection tool | `Python` |
+| [algo-visual](https://github.com/VesperAkshay/algo-visual) | Algorithm visualiser for the classics | `JavaScript` |
+| [secureshare](https://github.com/VesperAkshay/secureshare) | Secure sharing experiment that fed into DropWire | `TypeScript` |
+| [Open-Git](https://github.com/VesperAkshay/Open-Git) | Git workflow helper | `Go` |
+
+</details>
+
+<p align="center">
+  <img src="assets/achievements.svg" width="100%" alt="Achievements" />
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<img src="assets/sec-signals.svg" width="100%" alt="04 — signals" />
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VesperAkshay&show_icons=true&include_all_commits=true&rank_icon=github&border_radius=12&bg_color=0C1117&title_color=4DE8C2&text_color=E8EEF4&icon_color=8B7BFF&border_color=1A222C" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VesperAkshay&layout=compact&langs_count=8&border_radius=12&bg_color=0C1117&title_color=8B7BFF&text_color=E8EEF4&border_color=1A222C" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=VesperAkshay&border_radius=12&background=0C1117&border=1A222C&stroke=1A222C&ring=4DE8C2&fire=FF8A3D&currStreakNum=E8EEF4&sideNums=E8EEF4&currStreakLabel=4DE8C2&sideLabels=78889A&dates=4A5766" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VesperAkshay&custom_title=Contribution%20rhythm%20%E2%80%94%20last%2012%20months&bg_color=0C1117&color=E8EEF4&title_color=4DE8C2&line=4DE8C2&point=FF8A3D&area=true&area_color=4DE8C2&border_color=1A222C&radius=12" alt="Contribution graph" />
+</p>
+
+<img src="assets/sec-contact.svg" width="100%" alt="05 — say hello" />
+
+<br/>
+
+<p align="center">
+  <b>If you're building something with sharp edges, I'd like to hear about it.</b><br/>
+  <sub>Rust · agents · developer tooling · anything that ships to real users</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshay-patel-3b0b97284/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>
+  <a href="https://dev.to/vesperakshay"><img src="assets/btn-devto.svg" height="40" alt="dev.to" /></a>
+  <a href="https://dropwire.tyes.dev"><img src="assets/btn-dropwire.svg" height="40" alt="DropWire" /></a>
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@vesperakshay">
+    <img src="https://holopin.me/vesperakshay" height="150" alt="Holopin badges — Hacktoberfest" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <sub><i>Thanks for scrolling this far. Star something if it was useful.</i></sub>
+</p>
