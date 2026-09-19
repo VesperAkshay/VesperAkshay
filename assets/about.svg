@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="278" viewBox="0 0 1000 278" role="img" aria-label="whoami">
+  <defs></defs>
+  <rect width="1000" height="278" rx="14" fill="#0C1117"/><rect x=".5" y=".5" width="999" height="277" rx="14" fill="none" stroke="#1A222C" stroke-width="1"/>
+  <path d="M0 14 a14 14 0 0 1 14-14 h972 a14 14 0 0 1 14 14 v34 h-1000 z" fill="#0F151C"/>
+  <line x1="0" y1="48" x2="1000" y2="48" stroke="#1A222C"/>
+  <circle cx="26" cy="24" r="5" fill="#FF8A3D" opacity=".9"/><circle cx="43" cy="24" r="5" fill="#FFD166" opacity=".9"/><circle cx="60" cy="24" r="5" fill="#4DE8C2" opacity=".9"/>
+  <text x="500.0" y="29" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#78889A"
+        letter-spacing=".6">akshay@vesper — ~/profile</text>
+  <text x="34" y="66" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#4DE8C2">$</text>
+  <text x="52" y="66" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#E8EEF4">whoami --verbose</text>
+  <g opacity="1">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.204;0.276;1" dur="4.42s" fill="freeze"/>
+      <text x="34" y="94" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5766">&#9656;</text>
+      <text x="52" y="94" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#78889A">name</text>
+      <text x="130" y="94" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5766">:</text>
+      <text x="146" y="94" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#E8EEF4">Akshay Patel  ·  @VesperAkshay</text>
+    </g><g opacity="1">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.299;0.371;1" dur="4.42s" fill="freeze"/>
+      <text x="34" y="121" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5766">&#9656;</text>
+      <text x="52" y="121" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#78889A">based</text>
+      <text x="130" y="121" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5766">:</text>
+      <text x="146" y="121" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#78889A">Kanpur, Uttar Pradesh, India  ·  B.Tech @ PSIT</text>
+    </g><g opacity="1">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.394;0.466;1" dur="4.42s" fill="freeze"/>
+      <text x="34" y="148" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5766">&#9656;</text>
+      <text x="52" y="148" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#78889A">focus</text>
+      <text x="130" y="148" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5766">:</text>
+      <text x="146" y="148" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4DE8C2">Rust systems  ·  AI agents &amp; MCP  ·  developer tooling</text>
+    </g><g opacity="1">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.489;0.561;1" dur="4.42s" fill="freeze"/>
+      <text x="34" y="175" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5766">&#9656;</text>
+      <text x="52" y="175" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#78889A">shipping</text>
+      <text x="130" y="175" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5766">:</text>
+      <text x="146" y="175" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#FF8A3D">DropWire — zero-cloud P2P encrypted transfer engine</text>
+    </g><g opacity="1">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.584;0.656;1" dur="4.42s" fill="freeze"/>
+      <text x="34" y="202" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5766">&#9656;</text>
+      <text x="52" y="202" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#78889A">open_src</text>
+      <text x="130" y="202" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5766">:</text>
+      <text x="146" y="202" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8B7BFF">GSSoC '23 &amp; '24  ·  Hacktoberfest '24  ·  100+ forks</text>
+    </g><g opacity="1">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.679;0.751;1" dur="4.42s" fill="freeze"/>
+      <text x="34" y="229" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5766">&#9656;</text>
+      <text x="52" y="229" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#78889A">wants</text>
+      <text x="130" y="229" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5766">:</text>
+      <text x="146" y="229" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#7CD8FF">hard problems, ambitious collaborators, real users</text>
+    </g>
+  <g opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.864;0.932;1" dur="4.42s" fill="freeze"/>
+    <text x="34" y="256" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#4DE8C2">$</text>
+    <rect x="52" y="244" width="9" height="16" fill="#4DE8C2">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

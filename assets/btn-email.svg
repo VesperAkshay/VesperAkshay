@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="40" viewBox="0 0 124 40" role="img" aria-label="EMAIL ME">
+  <defs>
+    <linearGradient id="b1948_g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4DE8C2" stop-opacity=".16"/>
+      <stop offset="100%" stop-color="#4DE8C2" stop-opacity=".03"/>
+    </linearGradient>
+  </defs>
+  <rect x=".75" y=".75" width="122.5" height="38.5" rx="10" fill="#0C1117" stroke="#4DE8C2"
+        stroke-width="1.5" stroke-opacity=".55"/>
+  <rect x=".75" y=".75" width="122.5" height="38.5" rx="10" fill="url(#b1948_g)"/>
+  <rect x="0" y="12" width="2.5" height="16" rx="1.2" fill="#4DE8C2"/>
+  <g transform="translate(26,20)" stroke="#4DE8C2" stroke-width="1.6" fill="none"
+     stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-8,-5 h16 v10 h-16 z M-8,-5 L0,2 L8,-5"/>
+  </g>
+  <text x="44" y="24.5" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" font-weight="700" fill="#E8EEF4"
+        letter-spacing="1">EMAIL ME</text>
+  <circle cx="110" cy="20" r="2.4" fill="#4DE8C2">
+    <animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

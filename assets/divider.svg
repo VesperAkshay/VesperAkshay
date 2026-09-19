@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="26" viewBox="0 0 1000 26" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="d_g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4DE8C2" stop-opacity="0"/>
+      <stop offset="22%" stop-color="#4DE8C2" stop-opacity=".5"/>
+      <stop offset="50%" stop-color="#8B7BFF" stop-opacity=".55"/>
+      <stop offset="78%" stop-color="#FF8A3D" stop-opacity=".5"/>
+      <stop offset="100%" stop-color="#FF8A3D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="26" fill="#070A0E"/>
+  <line x1="0" y1="13" x2="1000" y2="13" stroke="url(#d_g)" stroke-width="1.4"/>
+  <line x1="0" y1="13" x2="1000" y2="13" stroke="#070A0E" stroke-width="4" stroke-dasharray="3 9" opacity=".8"/>
+  <circle cy="13" r="3" fill="#4DE8C2">
+    <animate attributeName="cx" values="0;1000;0" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="13" r="2" fill="#FF8A3D">
+    <animate attributeName="cx" values="1000;0;1000" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.9;.9;0" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <polygon points="493.0,13 500.0,7 507.0,13 500.0,19" fill="#070A0E" stroke="#8B7BFF" stroke-width="1.2"/>
+</svg>

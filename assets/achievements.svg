@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="132" viewBox="0 0 1000 132" role="img" aria-label="Achievements">
+  <defs><pattern id="a_grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#0F161E" stroke-width="1"/>
+    </pattern></defs>
+  <rect width="1000" height="132" rx="14" fill="#070A0E"/><rect width="1000" height="132" rx="14" fill="url(#a_grid)"/><rect x=".5" y=".5" width="999" height="131" rx="14" fill="none" stroke="#1A222C" stroke-width="1"/>
+  <g>
+      <rect x="20.0" y="18" width="126.9" height="96" rx="11" fill="#0C1117" stroke="#1A222C"/>
+      <polygon points="83.4,34.0 100.7,44.0 100.7,64.0 83.4,74.0 66.1,64.0 66.1,44.0" fill="none" stroke="#4DE8C2" stroke-width="1.4" opacity=".8"/>
+      <polygon points="83.4,34.0 100.7,44.0 100.7,64.0 83.4,74.0 66.1,64.0 66.1,44.0" fill="#4DE8C2" opacity=".08"/>
+      <circle cx="83.4" cy="54" r="5" fill="#4DE8C2">
+        <animate attributeName="r" values="4;6.6;4" dur="3s" begin="0.00s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;.45;1" dur="3s" begin="0.00s" repeatCount="indefinite"/>
+      </circle>
+      <polygon points="83.4,34.0 100.7,44.0 100.7,64.0 83.4,74.0 66.1,64.0 66.1,44.0" fill="none" stroke="#4DE8C2" stroke-width="1" opacity=".5">
+        <animateTransform attributeName="transform" type="rotate"
+          from="0 83.4 54" to="360 83.4 54" dur="16s" repeatCount="indefinite"/>
+      </polygon>
+      <text x="83.4" y="95" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.2"
+            font-weight="700" fill="#E8EEF4" letter-spacing=".5">GSSoC</text>
+      <text x="83.4" y="108" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.4"
+            fill="#78889A" letter-spacing=".4">'23 &amp; '24</text>
+    </g><g>
+      <rect x="158.9" y="18" width="126.9" height="96" rx="11" fill="#0C1117" stroke="#1A222C"/>
+      <polygon points="222.3,34.0 239.6,44.0 239.6,64.0 222.3,74.0 205.0,64.0 205.0,44.0" fill="none" stroke="#FF8A3D" stroke-width="1.4" opacity=".8"/>
+      <polygon points="222.3,34.0 239.6,44.0 239.6,64.0 222.3,74.0 205.0,64.0 205.0,44.0" fill="#FF8A3D" opacity=".08"/>
+      <circle cx="222.3" cy="54" r="5" fill="#FF8A3D">
+        <animate attributeName="r" values="4;6.6;4" dur="3s" begin="0.28s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;.45;1" dur="3s" begin="0.28s" repeatCount="indefinite"/>
+      </circle>
+      <polygon points="222.3,34.0 239.6,44.0 239.6,64.0 222.3,74.0 205.0,64.0 205.0,44.0" fill="none" stroke="#FF8A3D" stroke-width="1" opacity=".5">
+        <animateTransform attributeName="transform" type="rotate"
+          from="0 222.3 54" to="360 222.3 54" dur="18s" repeatCount="indefinite"/>
+      </polygon>
+      <text x="222.3" y="95" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.2"
+            font-weight="700" fill="#E8EEF4" letter-spacing=".5">HACKTOBER</text>
+      <text x="222.3" y="108" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.4"
+            fill="#78889A" letter-spacing=".4">2024</text>
+    </g><g>
+      <rect x="297.7" y="18" width="126.9" height="96" rx="11" fill="#0C1117" stroke="#1A222C"/>
+      <polygon points="361.1,34.0 378.5,44.0 378.5,64.0 361.1,74.0 343.8,64.0 343.8,44.0" fill="none" stroke="#8B7BFF" stroke-width="1.4" opacity=".8"/>
+      <polygon points="361.1,34.0 378.5,44.0 378.5,64.0 361.1,74.0 343.8,64.0 343.8,44.0" fill="#8B7BFF" opacity=".08"/>
+      <circle cx="361.1" cy="54" r="5" fill="#8B7BFF">
+        <animate attributeName="r" values="4;6.6;4" dur="3s" begin="0.56s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;.45;1" dur="3s" begin="0.56s" repeatCount="indefinite"/>
+      </circle>
+      <polygon points="361.1,34.0 378.5,44.0 378.5,64.0 361.1,74.0 343.8,64.0 343.8,44.0" fill="none" stroke="#8B7BFF" stroke-width="1" opacity=".5">
+        <animateTransform attributeName="transform" type="rotate"
+          from="0 361.1 54" to="360 361.1 54" dur="20s" repeatCount="indefinite"/>
+      </polygon>
+      <text x="361.1" y="95" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.2"
+            font-weight="700" fill="#E8EEF4" letter-spacing=".5">PULL SHARK</text>
+      <text x="361.1" y="108" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.4"
+            fill="#78889A" letter-spacing=".4">x2</text>
+    </g><g>
+      <rect x="436.6" y="18" width="126.9" height="96" rx="11" fill="#0C1117" stroke="#1A222C"/>
+      <polygon points="500.0,34.0 517.3,44.0 517.3,64.0 500.0,74.0 482.7,64.0 482.7,44.0" fill="none" stroke="#FFD166" stroke-width="1.4" opacity=".8"/>
+      <polygon points="500.0,34.0 517.3,44.0 517.3,64.0 500.0,74.0 482.7,64.0 482.7,44.0" fill="#FFD166" opacity=".08"/>
+      <circle cx="500.0" cy="54" r="5" fill="#FFD166">
+        <animate attributeName="r" values="4;6.6;4" dur="3s" begin="0.84s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;.45;1" dur="3s" begin="0.84s" repeatCount="indefinite"/>
+      </circle>
+      <polygon points="500.0,34.0 517.3,44.0 517.3,64.0 500.0,74.0 482.7,64.0 482.7,44.0" fill="none" stroke="#FFD166" stroke-width="1" opacity=".5">
+        <animateTransform attributeName="transform" type="rotate"
+          from="0 500.0 54" to="360 500.0 54" dur="22s" repeatCount="indefinite"/>
+      </polygon>
+      <text x="500.0" y="95" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.2"
+            font-weight="700" fill="#E8EEF4" letter-spacing=".5">STARSTRUCK</text>
+      <text x="500.0" y="108" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.4"
+            fill="#78889A" letter-spacing=".4">github</text>
+    </g><g>
+      <rect x="575.4" y="18" width="126.9" height="96" rx="11" fill="#0C1117" stroke="#1A222C"/>
+      <polygon points="638.9,34.0 656.2,44.0 656.2,64.0 638.9,74.0 621.5,64.0 621.5,44.0" fill="none" stroke="#7CD8FF" stroke-width="1.4" opacity=".8"/>
+      <polygon points="638.9,34.0 656.2,44.0 656.2,64.0 638.9,74.0 621.5,64.0 621.5,44.0" fill="#7CD8FF" opacity=".08"/>
+      <circle cx="638.9" cy="54" r="5" fill="#7CD8FF">
+        <animate attributeName="r" values="4;6.6;4" dur="3s" begin="1.12s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;.45;1" dur="3s" begin="1.12s" repeatCount="indefinite"/>
+      </circle>
+      <polygon points="638.9,34.0 656.2,44.0 656.2,64.0 638.9,74.0 621.5,64.0 621.5,44.0" fill="none" stroke="#7CD8FF" stroke-width="1" opacity=".5">
+        <animateTransform attributeName="transform" type="rotate"
+          from="0 638.9 54" to="360 638.9 54" dur="24s" repeatCount="indefinite"/>
+      </polygon>
+      <text x="638.9" y="95" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.2"
+            font-weight="700" fill="#E8EEF4" letter-spacing=".5">PAIR EXTRA.</text>
+      <text x="638.9" y="108" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.4"
+            fill="#78889A" letter-spacing=".4">github</text>
+    </g><g>
+      <rect x="714.3" y="18" width="126.9" height="96" rx="11" fill="#0C1117" stroke="#1A222C"/>
+      <polygon points="777.7,34.0 795.0,44.0 795.0,64.0 777.7,74.0 760.4,64.0 760.4,44.0" fill="none" stroke="#FF7AA8" stroke-width="1.4" opacity=".8"/>
+      <polygon points="777.7,34.0 795.0,44.0 795.0,64.0 777.7,74.0 760.4,64.0 760.4,44.0" fill="#FF7AA8" opacity=".08"/>
+      <circle cx="777.7" cy="54" r="5" fill="#FF7AA8">
+        <animate attributeName="r" values="4;6.6;4" dur="3s" begin="1.40s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;.45;1" dur="3s" begin="1.40s" repeatCount="indefinite"/>
+      </circle>
+      <polygon points="777.7,34.0 795.0,44.0 795.0,64.0 777.7,74.0 760.4,64.0 760.4,44.0" fill="none" stroke="#FF7AA8" stroke-width="1" opacity=".5">
+        <animateTransform attributeName="transform" type="rotate"
+          from="0 777.7 54" to="360 777.7 54" dur="26s" repeatCount="indefinite"/>
+      </polygon>
+      <text x="777.7" y="95" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.2"
+            font-weight="700" fill="#E8EEF4" letter-spacing=".5">QUICKDRAW</text>
+      <text x="777.7" y="108" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.4"
+            fill="#78889A" letter-spacing=".4">github</text>
+    </g><g>
+      <rect x="853.1" y="18" width="126.9" height="96" rx="11" fill="#0C1117" stroke="#1A222C"/>
+      <polygon points="916.6,34.0 933.9,44.0 933.9,64.0 916.6,74.0 899.3,64.0 899.3,44.0" fill="none" stroke="#4DE8C2" stroke-width="1.4" opacity=".8"/>
+      <polygon points="916.6,34.0 933.9,44.0 933.9,64.0 916.6,74.0 899.3,64.0 899.3,44.0" fill="#4DE8C2" opacity=".08"/>
+      <circle cx="916.6" cy="54" r="5" fill="#4DE8C2">
+        <animate attributeName="r" values="4;6.6;4" dur="3s" begin="1.68s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;.45;1" dur="3s" begin="1.68s" repeatCount="indefinite"/>
+      </circle>
+      <polygon points="916.6,34.0 933.9,44.0 933.9,64.0 916.6,74.0 899.3,64.0 899.3,44.0" fill="none" stroke="#4DE8C2" stroke-width="1" opacity=".5">
+        <animateTransform attributeName="transform" type="rotate"
+          from="0 916.6 54" to="360 916.6 54" dur="28s" repeatCount="indefinite"/>
+      </polygon>
+      <text x="916.6" y="95" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.2"
+            font-weight="700" fill="#E8EEF4" letter-spacing=".5">YOLO</text>
+      <text x="916.6" y="108" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.4"
+            fill="#78889A" letter-spacing=".4">github</text>
+    </g>
+</svg>
